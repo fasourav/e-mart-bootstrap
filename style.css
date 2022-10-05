@@ -1,0 +1,13 @@
+.emart-bg-info {
+    background-color: rgb(255, 86, 71);
+}
+.categories img {
+    width: 100px;
+}
+.emart-btn-buy-now {
+    background-image: linear-gradient(to bottom, #002c49 0%, #0ec8bc 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
